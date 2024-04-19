@@ -1,5 +1,6 @@
 package util;
 
+
 public abstract class Algoritmos {
 	/**
 	 * Devuelve el fibonacci del numero especificado
